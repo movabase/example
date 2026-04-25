@@ -1,0 +1,26 @@
+{
+  "siteName": "MovaBase",
+  "beta": "Now in public beta",
+  "nav": {
+    "features": "Features",
+    "showcase": "Showcase",
+    "gitFlow": "Git Flow",
+    "pricing": "Pricing",
+    "getStarted": "Get Started"
+  },
+  "footer": {
+    "description": "Streamline your localization workflow. Manage translations, sync with Git, and ship multilingual apps faster.",
+    "product": "Product",
+    "legal": "Legal",
+    "support": "Support",
+    "compare": "Compare",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "refund": "Refund Policy",
+    "status": "System Status",
+    "rights": "All rights reserved."
+  },
+  "languageSwitcher": {
+    "label": "Language"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "sectionLabel": "Funcionalidades",
+  "sectionTitle": "Todo lo que necesitas",
+  "sectionSubtitle": "Un conjunto de herramientas completo para flujos de trabajo de traduccion modernos.",
+  "features": {
+    "multiFormat": {
+      "title": "Soporte Multi-Formato",
+      "description": "Soporte nativo para archivos JSON, iOS .strings, Android XML y PO."
+    },
+    "collaboration": {
+      "title": "Colaboracion en Tiempo Real",
+      "description": "Observa como se actualizan las traducciones al instante mientras tu equipo escribe."
+    },
+    "gitSync": {
+      "title": "Sincronizacion Git",
+      "description": "Sincronizacion bidireccional con tus repositorios Git."
+    },
+    "search": {
+      "title": "Busqueda Instantanea",
+      "description": "Encuentra cualquier clave o traduccion en milisegundos."
+    }
+  },
+  "workflow": {
+    "sectionLabel": "Hecho para equipos modernos",
+    "sectionTitle": "Vive la proxima generacion de gestion de traducciones.",
+    "steps": {
+      "step1": {
+        "title": "Configuracion de la Organizacion",
+        "description": "Crea tu espacio de trabajo seguro e invita a tu equipo a comenzar a colaborar de inmediato."
+      },
+      "step2": {
+        "title": "Creacion de Proyectos",
+        "description": "Configura proyectos para aplicaciones web, moviles y de escritorio sin problemas con soporte de formato integrado."
+      },
+      "step3": {
+        "title": "Flujo de Trabajo de Traduccion",
+        "description": "Gestiona claves y traducciones con una interfaz intuitiva disenada para la velocidad y la precision."
+      }
+    }
+  },
+  "gitFlow": {
+    "sectionTitle": "Flujo de Trabajo Nativo de Git",
+    "sectionSubtitle": "Sincroniza traducciones con tu repositorio sin problemas. Haz pull, edita y push sin salir de MovaBase.",
+    "steps": {
+      "connect": {
+        "title": "Conectar Repositorio",
+        "description": "Conecta tu repositorio Git con OAuth. Elige el repo y la rama donde estan tus archivos de traduccion."
+      },
+      "pull": {
+        "title": "Extraer Traducciones",
+        "description": "Importa archivos de traduccion existentes desde tu repositorio. MovaBase analiza automaticamente JSON, .strings, XML y PO."
+      },
+      "edit": {
+        "title": "Edita con Confianza",
+        "description": "Haz cambios en nuestro editor intuitivo. El seguimiento completo del historial significa que siempre puedes revertir."
+      },
+      "pr": {
+        "title": "Abrir Pull Request",
+        "description": "Sube tus cambios y crea un PR, todo desde MovaBase. Revisa las diferencias y fusiona cuando estes listo."
+      }
+    }
+  }
+}

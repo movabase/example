@@ -1,0 +1,26 @@
+{
+  "siteName": "MovaBase",
+  "beta": "Ahora en beta publica",
+  "nav": {
+    "features": "Funcionalidades",
+    "showcase": "Galeria",
+    "gitFlow": "Flujo Git",
+    "pricing": "Precios",
+    "getStarted": "Empezar"
+  },
+  "footer": {
+    "description": "Simplifica tu flujo de localizacion. Gestiona traducciones, sincroniza con Git y publica apps multilingues mas rapido.",
+    "product": "Producto",
+    "legal": "Legal",
+    "support": "Soporte",
+    "compare": "Comparativas",
+    "privacy": "Politica de Privacidad",
+    "terms": "Terminos de Servicio",
+    "refund": "Politica de Reembolso",
+    "status": "Estado del Sistema",
+    "rights": "Todos los derechos reservados."
+  },
+  "languageSwitcher": {
+    "label": "Idioma"
+  }
+}

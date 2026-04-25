@@ -1,0 +1,63 @@
+{
+  "sectionLabel": "Features",
+  "sectionTitle": "Everything You Need",
+  "sectionSubtitle": "A complete toolkit for modern translation workflows.",
+  "features": {
+    "multiFormat": {
+      "title": "Multi-Format Support",
+      "description": "Native support for JSON, iOS .strings, Android XML, and PO files."
+    },
+    "collaboration": {
+      "title": "Real-time Collaboration",
+      "description": "Watch translations update instantly as your team types."
+    },
+    "gitSync": {
+      "title": "Git Sync",
+      "description": "Two-way synchronization with your Git repositories."
+    },
+    "search": {
+      "title": "Instant Search",
+      "description": "Find any key or translation in milliseconds."
+    }
+  },
+  "workflow": {
+    "sectionLabel": "Built for Modern Teams",
+    "sectionTitle": "Experience the next generation of translation management.",
+    "steps": {
+      "step1": {
+        "title": "Organization Setup",
+        "description": "Create your secure workspace and invite your team to start collaborating immediately."
+      },
+      "step2": {
+        "title": "Project Creation",
+        "description": "Seamlessly set up projects for web, mobile, and desktop applications with built-in format support."
+      },
+      "step3": {
+        "title": "Translation Workflow",
+        "description": "Manage keys and translations with an intuitive interface designed for speed and accuracy."
+      }
+    }
+  },
+  "gitFlow": {
+    "sectionTitle": "Git-Native Workflow",
+    "sectionSubtitle": "Seamlessly sync translations with your repository. Pull, edit, and push without leaving MovaBase.",
+    "steps": {
+      "connect": {
+        "title": "Connect Repository",
+        "description": "Connect your Git repository with OAuth. Select the repo and branch that contain your translation files."
+      },
+      "pull": {
+        "title": "Pull Translations",
+        "description": "Import existing translation files from your repo. MovaBase automatically parses JSON, .strings, XML, and PO formats."
+      },
+      "edit": {
+        "title": "Edit with Confidence",
+        "description": "Make changes in our intuitive editor. Full history tracking means you can always roll back."
+      },
+      "pr": {
+        "title": "Open Pull Request",
+        "description": "Push your changes and create a PR — all from MovaBase. Review diffs and merge when ready."
+      }
+    }
+  }
+}
