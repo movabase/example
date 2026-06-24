@@ -1,62 +1,62 @@
 {
-  "sectionLabel": "Features",
-  "sectionTitle": "Everything You Need",
-  "sectionSubtitle": "A complete toolkit for modern translation workflows.",
   "features": {
-    "multiFormat": {
-      "title": "Multi-Format Support",
-      "description": "Native support for JSON, iOS .strings, Android XML, and PO files."
-    },
     "collaboration": {
-      "title": "Real-time Collaboration",
-      "description": "Watch translations update instantly as your team types."
+      "description": "Watch translations update instantly as your team types.",
+      "title": "Real-time Collaboration"
     },
     "gitSync": {
-      "title": "Git Sync",
-      "description": "Two-way synchronization with your Git repositories."
+      "description": "Two-way synchronization with your Git repositories.",
+      "title": "Git Sync"
+    },
+    "multiFormat": {
+      "description": "Native support for JSON, iOS .strings, Android XML, and PO files.",
+      "title": "Multi-Format Support"
     },
     "search": {
-      "title": "Instant Search",
-      "description": "Find any key or translation in milliseconds."
+      "description": "Find any key or translation in milliseconds.",
+      "title": "Instant Search"
     }
   },
+  "gitFlow": {
+    "sectionSubtitle": "Seamlessly sync translations with your repository. Pull, edit, and push without leaving MovaBase.",
+    "sectionTitle": "Git-Native Workflow",
+    "steps": {
+      "connect": {
+        "description": "Connect your Git repository with OAuth. Select the repo and branch that contain your translation files.",
+        "title": "Connect Repository"
+      },
+      "edit": {
+        "description": "Make changes in our intuitive editor. Full history tracking means you can always roll back.",
+        "title": "Edit with Confidence"
+      },
+      "pr": {
+        "description": "Push your changes and create a PR — all from MovaBase. Review diffs and merge when ready.",
+        "title": "Open Pull Request"
+      },
+      "pull": {
+        "description": "Import existing translation files from your repo. MovaBase automatically parses JSON, .strings, XML, and PO formats.",
+        "title": "Pull Translations"
+      }
+    }
+  },
+  "sectionLabel": "Features",
+  "sectionSubtitle": "A complete toolkit for modern translation workflows.",
+  "sectionTitle": "Everything You Need",
   "workflow": {
     "sectionLabel": "Built for Modern Teams",
     "sectionTitle": "Experience the next generation of translation management.",
     "steps": {
       "step1": {
-        "title": "Organization Setup",
-        "description": "Create your secure workspace and invite your team to start collaborating immediately."
+        "description": "Create your secure workspace and invite your team to start collaborating immediately.",
+        "title": "Organization Setup"
       },
       "step2": {
-        "title": "Project Creation",
-        "description": "Seamlessly set up projects for web, mobile, and desktop applications with built-in format support."
+        "description": "Seamlessly set up projects for web, mobile, and desktop applications with built-in format support.",
+        "title": "Project Creation"
       },
       "step3": {
-        "title": "Translation Workflow",
-        "description": "Manage keys and translations with an intuitive interface designed for speed and accuracy."
-      }
-    }
-  },
-  "gitFlow": {
-    "sectionTitle": "Git-Native Workflow",
-    "sectionSubtitle": "Seamlessly sync translations with your repository. Pull, edit, and push without leaving MovaBase.",
-    "steps": {
-      "connect": {
-        "title": "Connect Repository",
-        "description": "Connect your Git repository with OAuth. Select the repo and branch that contain your translation files."
-      },
-      "pull": {
-        "title": "Pull Translations",
-        "description": "Import existing translation files from your repo. MovaBase automatically parses JSON, .strings, XML, and PO formats."
-      },
-      "edit": {
-        "title": "Edit with Confidence",
-        "description": "Make changes in our intuitive editor. Full history tracking means you can always roll back."
-      },
-      "pr": {
-        "title": "Open Pull Request",
-        "description": "Push your changes and create a PR — all from MovaBase. Review diffs and merge when ready."
+        "description": "Manage keys and translations with an intuitive interface designed for speed and accuracy.",
+        "title": "Translation Workflow"
       }
     }
   }

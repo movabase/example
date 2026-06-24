@@ -1,12 +1,21 @@
 {
-  "badge": "Agora em beta publico",
-  "title": ["Gerenciamento de traducoes", "construido para equipes modernas"],
-  "subtitle": "Edite, organize e sincronize traducoes com Git. Sem manipulacao manual de arquivos, sem troca de contexto. Apenas localizacao perfeita.",
+  "badge": "Agora em beta publico!!!",
   "cta": "Comecar",
   "ctaSecondary": "Saiba mais",
   "stats": {
-    "formats": { "value": "4+", "label": "Formatos de arquivo" },
-    "keys": { "value": "Ilimitadas", "label": "Chaves de traducao" },
-    "sync": { "value": "Tempo real", "label": "Sincronizacao Git" }
-  }
+    "formats": {
+      "label": "Formatos de arquivo",
+      "value": "4+"
+    },
+    "keys": {
+      "label": "Chaves de traducao",
+      "value": "Ilimitadas"
+    },
+    "sync": {
+      "label": "Sincronizacao Git",
+      "value": "Tempo real"
+    }
+  },
+  "subtitle": "Edite, organize e sincronize traducoes com Git. Sem manipulacao manual de arquivos, sem troca de contexto. Apenas localizacao perfeita.",
+  "title": "[\"Gerenciamento de traducoes\",\"construido para equipes modernas\"]"
 }
