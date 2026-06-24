@@ -1,12 +1,21 @@
 {
-  "badge": "Now in public beta",
-  "title": ["Translation management", "built for modern teams"],
-  "subtitle": "Edit, organize, and sync translations with Git. No manual file handling, no context switching. Just seamless localization.",
+  "badge": "Now in public beta!!!",
   "cta": "Get Started",
   "ctaSecondary": "Learn more",
   "stats": {
-    "formats": { "value": "4+", "label": "File formats" },
-    "keys": { "value": "Unlimited", "label": "Translation keys" },
-    "sync": { "value": "Real-time", "label": "Git sync" }
-  }
+    "formats": {
+      "label": "File formats",
+      "value": "4+"
+    },
+    "keys": {
+      "label": "Translation keys",
+      "value": "Unlimited"
+    },
+    "sync": {
+      "label": "Git sync",
+      "value": "Real-time"
+    }
+  },
+  "subtitle": "Edit, organize, and sync translations with Git. No manual file handling, no context switching. Just seamless localization.",
+  "title": "[\"Translation management\",\"built for modern teams\"]"
 }
